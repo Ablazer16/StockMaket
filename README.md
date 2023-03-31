@@ -11,3 +11,9 @@ The objective of creating a stock market prediction model is to provide investor
 The ultimate goal of a stock market prediction model is to help investors make better investment decisions, which can lead to higher returns and better overall portfolio performance. However, it is important to note that stock market prediction models are not infallible and should be used in conjunction with other forms of analysis and market research.
 
 Additionally, stock market prediction models can also be useful for financial institutions, such as investment banks and hedge funds, as they can help inform trading decisions and optimize portfolio management strategies. Overall, the objective of creating a stock market prediction model is to provide investors and financial professionals with a valuable tool for making more informed investment decisions in the dynamic and ever-changing stock market.
+
+# **III. Model**
+
+The algorithm used is LSTM(Long Short-Term Memory) due to its capability of storing past information which makes it useful to predict stock prices.
+
+
